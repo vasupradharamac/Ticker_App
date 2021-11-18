@@ -13,7 +13,7 @@ This application gets data from [nomics](https://nomics.com/) (A cryptocurrency 
 
 The icons are colleted using "react-ions".
 
-Kryptomania can be cloned using "git clone https://github.com/vasupradharamachanrdan/Ticker_App.git" command into a new repository.
+Kryptomania can be cloned using "git clone https://github.com/vasupradharamachanrdan/Ticker_App.git" command into a new folder.
 
 Make sure to delete the "package-lock.json" first and then use the command, "npm update" to update the changes locally on your PC.
 
