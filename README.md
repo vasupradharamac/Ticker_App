@@ -1,6 +1,10 @@
 ![image](https://user-images.githubusercontent.com/66957811/142457246-d8ca6b47-88d5-427d-ae2c-f48cf71341c5.png)
 
 
+![image](https://user-images.githubusercontent.com/66957811/142459661-ccbc2418-4e4f-4b3a-851b-6cd836999dad.png)
+
+
+
 Kryptomania is a Ticker application that shows the current market value of coins with the percentage variation.
 
 The coins are collectively arranged in such a way that the users can identify trending coins, the ones that are ideal for new investors and the non-trending coins.
