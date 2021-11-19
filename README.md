@@ -20,3 +20,7 @@ Make sure to delete the "package-lock.json" first and then use the command, "npm
 Then finally, run "npm start" command to start the development server.
 
 
+The app can be deployed on Netlify or heroku. As of the moment, the app hasn't been deployed becuase the private API that has been used to develop the app isn't publicly deployed.
+
+But if the app has to be deployed regardless of public API deployment, make sure to use Chrome or Firefox extensions to allow CORS access. Enabling these extensions will allow the app to get and display the contents from the API
+.
