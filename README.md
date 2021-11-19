@@ -24,3 +24,7 @@ The app can be deployed on Netlify or heroku. As of the moment, the app hasn't b
 
 But if the app has to be deployed regardless of public API deployment, make sure to use Chrome or Firefox extensions to allow CORS access. Enabling these extensions will allow the app to get and display the contents from the API
 .
+
+Additional features like search bar and user login will be implemented soon.
+
+The list of coins displayed can also be changed if and when it is required.
