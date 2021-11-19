@@ -3,7 +3,7 @@
 
 ![image](https://user-images.githubusercontent.com/66957811/142459661-ccbc2418-4e4f-4b3a-851b-6cd836999dad.png)
 
-
+##Procedure to clone and run the application:
 
 Kryptomania is a Ticker application that shows the current market value of coins with the percentage variation.
 
@@ -19,11 +19,14 @@ Make sure to delete the "package-lock.json" first and then use the command, "npm
 
 Then finally, run "npm start" command to start the development server.
 
+##App deployment:
 
-The app can be deployed on Netlify or heroku. As of the moment, the app hasn't been deployed becuase the private API that has been used to develop the app isn't publicly deployed.
+The app can be deployed on Netlify or heroku. As of the moment, the app hasn't been deployed at the moment.
 
 But if the app has to be deployed regardless of public API deployment, make sure to use Chrome or Firefox extensions to allow CORS access. Enabling these extensions will allow the app to get and display the contents from the API
 .
+
+##Possible upcoming updates to the application:
 
 Additional features like search bar and user login will be implemented soon.
 
